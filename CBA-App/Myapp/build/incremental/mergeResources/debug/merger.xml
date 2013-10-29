@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res" >
+            <file
+                name="bannercba"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable/bannercba.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="cbalogo"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable/cbalogo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="motologo"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable/motologo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_item_detail"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/layout/activity_item_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_item_list"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/layout/activity_item_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_item_twopane"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/layout/activity_item_twopane.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_item_detail"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/layout/fragment_item_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="newactivity2"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/layout/newactivity2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="about"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/menu/about.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="newactivity2"
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/menu/newactivity2.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="lime" >#00FF00
+                </color>
+                <color name="silver" >#C0C0C0
+                </color>
+                <color name="blue" >#0000FF
+                </color>
+                <color name="green" >#008000
+                </color>
+                <color name="navy" >#000080
+                </color>
+                <color name="blue_gradientS" >#00a2e2
+                </color>
+                <color name="aqua" >#00FFFF
+                </color>
+                <color name="red" >#FF0000
+                </color>
+                <color name="gray" >#808080
+                </color>
+                <color name="purple" >#800080
+                </color>
+                <color name="blue_base" >#449def
+                </color>
+                <color name="yellow" >#FFFF00
+                </color>
+                <color name="blue_gradientE" >#0767a4
+                </color>
+                <color name="fuchsia" >#FF00FF
+                </color>
+                <color name="olive" >#808000
+                </color>
+                <color name="maroon" >#800000
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="black" >#000000
+                </color>
+                <color name="teal" >#008080
+                </color>
+                <color name="blue_stroke" >#2F6699
+                </color>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="trsservice" >You may contact the organizations and lawyers listed in here through a Telecommunications Relay Service (TRS). \n \n This is a free operator assisted service that allows you to place calls to a standard voice telephone by using a keyboard or assistive device like a cell phone. \n \n To place a TRS call from a standard voice phone, 
+<bold>
+dial 711
+                    </bold> to be automatically connected to a TRS operator.
+                </string>
+                <string name="title_item_detail" >Contacts
+                </string>
+                <string name="title_item_list" >Click on an area below:
+                </string>
+                <string name="contactstr" >Contact us:  The Chicago Bar Foundation - 321 S Plymouth Ct, Ste 3B, Chicago, IL 60604, 312.554.1204
+                </string>
+                <string name="MainDescr" >The Chicago Bar Foundation and the Motorola Mobility are working together to connect people to free or low cost legal assistance in and around Chicago.
+                </string>
+                <string name="title_activity_newactivity2" >About
+                </string>
+                <string name="app_name" >Chicago Bar Foundation
+                </string>
+                <string name="desfstr" >If you are speech disabled/deafblind click here ->
+                </string>
+                <string name="title_activity_about" >Assist
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="deafblind" >If you are deaf, hard of hearing, speech disabled, or deafblind...
+                </string>
+                <string name="MainInst" >MainInstr
+                </string>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values-large/refs.xml"
+                qualifiers="large" >
+                <item
+                    name="activity_item_list"
+                    type="layout">
+@layout/activity_item_twopane
+                </item>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values-sw600dp/refs.xml"
+                qualifiers="sw600dp" >
+                <item
+                    name="activity_item_list"
+                    type="layout">
+@layout/activity_item_twopane
+                </item>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/qint07/Documents/AndroidStudioProjects/CBA Application - 9-11-13/Myapp/src/debug/res" />
+    </dataSet>
+
+</merger>
