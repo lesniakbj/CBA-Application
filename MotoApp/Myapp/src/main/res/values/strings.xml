@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chicago Bar Foundation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_newactivity2">Disabled / Deafblind</string>
+    <string name="title_item_list">Areas of Law</string>
+    <string name="title_item_detail">Organizations and Lawyers</string>
+    <string name="title_activity_about">Organizations and Lawyers</string>
+    <string name="MainDescr">The Chicago Bar Foundation and the Motorola Mobility Foundation are working together to connect people to free or low cost legal assistance in and around Chicago.</string>
+    <string name="MainDescr2">Click on the <b>"FIND HELP"</b> button above to see a list of legal assistance available to you by specialty. Scroll down the list and click on the appropriate category to see a listing of the organizations and lawyers that are available to represent you.</string>
+    <string name="MainInst">MainInstr</string>
+    <string name="desfstr">Speech Disabled or Deafblind? CLICK HERE:</string>
+    <string name="spnstreng">If you speak Spanish, CLICK HERE:</string>
+    <string name="spnstr">Si usted habla español, haga CLIC AQUI:</string>
+    <string name="contactstr">Contact us:  The Chicago Bar Foundation - 321 S Plymouth Ct, Ste 3B, Chicago, IL 60604, 312.554.1204</string>
+    <string name="deafblind">If you are deaf, hard-of-hearing, speech-disabled, or deafblind...</string>
+    <string name="trsservice">You may contact the organizations and lawyers listed in here through a Telecommunications Relay Service (TRS). \n \n This is a free operator assisted service that allows you to place calls to a standard voice telephone by using a keyboard or assistive device like a cell phone. \n \n To place a TRS call from a standard voice phone, <bold>dial 711</bold> to be automatically connected to a TRS operator.</string>
+    <string name="before_search"><u><b>BEFORE</b></u> you start your search, <b>YOU</b> need to know that you will need to call first and make an appointment, as most of the legal aid programs listed do not accept walk-ins.</string>
+    <string name="before_search2">Scroll through the list to find the area of law you need.</string>
+    <string name="ifspanisheng">If you are Spanish speaking...</string>
+    <string name="ifspanish">Si usted es de habla española ...</string>
+    <string name="detailsspanisheng">You can call CARPLS at 312.738.9200 or go online to www.AyudaLegallL.org</string>
+    <string name="detailsspanish">Usted puede llamar al CARPLS 312.738.9200 o visite el sitio www.AyudaLegallL.org</string>
+
+</resources>
