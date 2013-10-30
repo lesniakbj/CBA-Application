@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- From: file:/Users/qint07/Documents/AndroidStudioProjects/CBA%20Application%20-%209-11-13/Myapp/src/main/res/values-v11/styles.xml -->
-    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
-        <!-- API 11 theme customizations can go here. -->
-    </style>
-
-</resources>
