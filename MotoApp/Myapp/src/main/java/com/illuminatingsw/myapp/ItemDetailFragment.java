@@ -397,20 +397,14 @@ public class ItemDetailFragment extends Fragment {
         organizationInfo[10] = "Legal Aid Society of Metropolitan Family Services" + "\n" + "312.986.4200" + "\n" + "www.metrofamily.org";
         organizationInfo[11] = "Chicago Legal Advocacy for Incarcerated Mothers (CLAIM)" + "\n" + "312.675.0912" + "\n" + "www.claim-il.org";
         organizationInfo[12] = "Guardianship Assistance Desk for Minors" + "\n" + "312.603.0135";
-        organizationInfo[13] = "Access Living" + "\n" + "Handles discrimination cases on behalf" + "\n" +
-        "of persons with disabilities, including discrimination" + "\n" + "in housing accommodation, government programs"
-                + "\n" + "(lack of access to government buildings or failure of a government to program"
-                + "\n" + "to serve persons with disabilities) and public accommodations (access to businesses,"
-                + "\n" + "such as a store, restaurant, etc.)." + "\n" + "312.640.2100 (voice)"
+        organizationInfo[13] = "Access Living" + "\n" + "312.640.2100 (voice)"
                 + "\n" + "800.613.8549 (toll free)" + "\n" + "312.640.2169 (TTY)"
                 + "\n" + "888.253.7003 (toll free TTY) " + "\n" + "www.accessliving.org";
         organizationInfo[14] = "Chicago Coalition for the Homeless" + "\n" + "For homeless persons" + "\n" + "312.641.4141"
                 + "\n" + "800.940.1119 (toll free)" + "\n" + "www.chicagohomeless.org";
         organizationInfo[15] = "Chicago Lawyers' Committee for Civil Rights Under Law"
-                + "\n" + "Discrimination based on race, religion, ethnicity, sexual orientation, disability, age or gender"
-                + "\n" + "in housing or employment and hate crimes." + "\n" + "312.630.9744" + "\n" + "www.clccrul.org";
-        organizationInfo[16] = "Equip for Equality" + "\n" + "Discrimination based on disability(ies) in employment, special education,"
-                + "\n" + "transportation settings and voting rights." + "\n" + "312.341.0022 (se habla espanol)"
+                + "\n" + "312.630.9744" + "\n" + "www.clccrul.org";
+        organizationInfo[16] = "Equip for Equality" + "\n" + "312.341.0022 (se habla espanol)"
                 + "\n" + "800.537.2632 (voice)" + "\n" + "800.610.2779 (TTY)" + "\n" + "www.equipforequality.org";
         organizationInfo[17] = "Lambda Legal" + "\n" + "Discrimination based on sexual orientation." + "\n" + "312.663.4413"
                 + "\n" + "www.lambdalegal.org";
@@ -427,8 +421,7 @@ public class ItemDetailFragment extends Fragment {
                 + "\n" + "(1.800.529.7374)" + "\n" + "before appointment of a lawyer" + "\n" + "www.first-defense.org";
         organizationInfo[25] = "Office of the State Appellate Defender" + "\n" + "Criminal Appeals"
                 + "\n" + "217.782.7203" + "\n" + "www.state.il.us/defender.org";
-        organizationInfo[26] = "Midwest Center on Law and the Deaf" + "\n" + "Information, resources and referrals only: organization"
-                + "does not represent individual clients." + "\n" + "1.800.894.3653 (voice)"
+        organizationInfo[26] = "Midwest Center on Law and the Deaf" + "\n" + "1.800.894.3653 (voice)"
                 + "\n" + "1.800.894.3654 (TTY)"+ "\n" + "www.mcld.org";
         organizationInfo[27] = "Health & Disability Advocates" + "\n" + "Healthcare" + "\n" + "312.223.9600 (voice)"
                 + "\n" + "866.584.8750 (TTY)" + "\n" + "www.hdadvocates.org";
