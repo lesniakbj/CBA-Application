@@ -9,7 +9,7 @@
     <string name="title_item_detail">Organizations and Lawyers</string>
     <string name="title_activity_about">Organizations and Lawyers</string>
     <string name="MainDescr">The Chicago Bar Foundation and the Motorola Mobility Foundation are working together to connect people to free or low cost legal assistance in and around Chicago.</string>
-    <string name="MainDescr2">Click on the <b>"FIND HELP"</b> button above to see a list of legal assistance available to you by specialty. Scroll down the list and click on the appropriate category to see a listing of the organizations and lawyers that are available to represent you.</string>
+    <string name="MainDescr2">Click on the <b>"FIND HELP"</b> button above to see a list of legal assistance available to you by specialty.</string>
     <string name="MainInst">MainInstr</string>
     <string name="desfstr">Speech Disabled or Deafblind? CLICK HERE:</string>
     <string name="spnstreng">If you speak Spanish, CLICK HERE:</string>
