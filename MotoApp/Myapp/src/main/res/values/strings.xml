@@ -18,7 +18,7 @@
     <string name="deafblind">If you are deaf, hard-of-hearing, speech-disabled, or deafblind...</string>
     <string name="trsservice">You may contact the organizations and lawyers listed in here through a Telecommunications Relay Service (TRS). \n \nThis is a free operator assisted service that allows you to place calls to a standard voice telephone by using a keyboard or assistive device like a cell phone. \n \nTo place a TRS call from a standard voice phone, <bold>dial 711</bold> to be automatically connected to a TRS operator.</string>
     <string name="before_search"><u><b>BEFORE</b></u> you start your search, <b>YOU</b> need to know that you will need to call first and make an appointment, as most of the legal aid programs listed do not accept walk-ins.</string>
-    <string name="before_search2">Scroll through the list to find the area of law you need, then click on the name to see a listing of the organizations and lawyers that are available to represent you.</string>
+    <string name="before_search2">Scroll through the list to find the area of law you need, then click on the name to see a listing of the organizations and lawyers that are available to represent you. \n\nVisit www.illinoislegalaid.org for free legal information and other resources.</string>
     <string name="ifspanisheng">If you are Spanish speaking...</string>
     <string name="ifspanish">Si usted es de habla española ...</string>
     <string name="detailsspanisheng">You can call CARPLS at 312.738.9200 or go online to www.AyudaLegallL.org </string>

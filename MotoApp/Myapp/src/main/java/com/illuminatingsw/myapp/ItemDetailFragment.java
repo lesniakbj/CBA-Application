@@ -492,6 +492,7 @@ public class ItemDetailFragment extends Fragment {
 
 
             String detailedText = "";
+            detailedText += info[clickedCategory][0] + "\n\n";
             for (int i=1; i<20; i++)
             {
                 //check if null which means no more orgs for this category
