@@ -8,20 +8,30 @@
     <string name="title_item_list">Areas of Law</string>
     <string name="title_item_detail">Organizations and Lawyers</string>
     <string name="title_activity_about">Organizations and Lawyers</string>
-    <string name="MainDescr">The Chicago Bar Foundation and the Motorola Mobility Foundation are working together to connect people to free or low cost legal assistance in and around Chicago.</string>
+    <string name="MainDescr">Chicago Bar Foundation and Motorola Mobility are working together to help connect people to free or low cost legal assistance in and around Chicago.</string>
     <string name="MainDescr2">Click on the <b>"FIND HELP"</b> button above to see a list of legal assistance available to you by specialty.</string>
     <string name="MainInst">MainInstr</string>
-    <string name="desfstr">Speech Disabled or Deafblind? CLICK HERE:</string>
+    <string name="desfstr">Speech-Disabled or Deafblind? CLICK HERE:</string>
     <string name="spnstreng">If you speak Spanish, CLICK HERE:</string>
     <string name="spnstr">Si usted habla español, haga CLIC AQUI:</string>
     <string name="contactstr">Contact us:  The Chicago Bar Foundation - 321 S Plymouth Ct, Ste 3B, Chicago, IL 60604, 312.554.1204</string>
-    <string name="deafblind">If you are deaf, hard-of-hearing, speech-disabled, or deafblind...</string>
-    <string name="trsservice">You may contact the organizations and lawyers listed in here through a Telecommunications Relay Service (TRS). \n \nThis is a free operator assisted service that allows you to place calls to a standard voice telephone by using a keyboard or assistive device like a cell phone. \n \nTo place a TRS call from a standard voice phone, <bold>dial 711</bold> to be automatically connected to a TRS operator.</string>
-    <string name="before_search"><u><b>BEFORE</b></u> you start your search, <b>YOU</b> need to know that you will need to call first and make an appointment, as most of the legal aid programs listed do not accept walk-ins.</string>
-    <string name="before_search2">Scroll through the list to find the area of law you need, then click on the name to see a listing of the organizations and lawyers that are available to represent you. \n\nVisit www.illinoislegalaid.org for free legal information and other resources.</string>
+    <string name="deafblind">If you are deaf, hard-of hearing, speech-disabled or deaf-blind....</string>
+    <string name="trsservice">You may contact the organizations listed in here through Telecommunication Relay Service (TRS). \n \nThis is a free operator assistance service that allows you to place calls from a TTY to a standard voice telephone . \n \nTo place a TRS call from a standard voice phone to someone who uses a TTY, dial 711 to be automatically connected to a TRS operator.</string>
+    <string name="before_search">If you have a legal problem and can’t pay for a lawyer, do one or all of the following:</string>
+    <string name="before_search2">Call <u>CARPLS</u>, the Cook County Legal Aid Hotline at 312-738-9200 (if you are in Cook County)</string>
+    <string name="before_search3">Visit www.IllinoisLegalAid.org for free legal information and helpful form</string>
+    <string name="before_search4">Contact one of the legal aid organizations identified here. Scroll through the list to find the area of law you need, then click on the name to see a list of organizations that may be able to help you in that area.</string>
+    <string name="after_search">Many more people need free legal help than the legal aid organizations can provide. Please be patient as you try to reach the organizations to find out if they can help you.</string>
     <string name="ifspanisheng">If you are Spanish speaking...</string>
     <string name="ifspanish">Si usted es de habla española ...</string>
     <string name="detailsspanisheng">You can call CARPLS at 312.738.9200 or go online to www.AyudaLegallL.org </string>
     <string name="detailsspanish">Usted puede llamar al CARPLS 312.738.9200 o visite el sitio www.AyudaLegallL.org </string>
+    <string name="carpls_1">The best way to find out if you qualify for or can receive free legal help in or around Chicago is  to call CARPLS at 312-738-9200.</string>
+    <string name="carpls_2">You can get legal advice and instructions from the CARPLS hotline. CARPLS also may try to refer you to another legal aid program for further assistance.</string>
+    <string name="carpls_3">The hotline gets many more calls than CARPLS can answer. Please be patient, it may take up to 20 minutes to speak with an attorney. During heavy call times, you will also have the option to leave a message so that CARPLS can call you back.</string>
+    <string name="ilao_1">www.IllinoisLegalAid.org provides free legal information, helpful forms and other resources. The website will help you learn about your legal problem and how court works.</string>
+    <string name="ilao_2">If you are unable to find a lawyer to help you or need to handle your legal problem on your own, www.IllinoisLegalAid.org can help you create forms and give you instructions about representing yourself.</string>
+    <string name="carpls_head"><u><b>CARPLS:</b></u></string>
+    <string name="ilao_head"><u><b>Illinois Legal Aid:</b></u></string>
 
 </resources>

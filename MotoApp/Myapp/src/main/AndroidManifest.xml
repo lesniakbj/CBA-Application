@@ -10,7 +10,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/cbabar"
+        android:icon="@drawable/icon"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
@@ -48,6 +48,12 @@
         <activity
                 android:name=".SpanishActivity"
                 android:label="Español"/>
+        <activity
+                android:name=".CarplsActivity"
+                android:label="CARPLS Info" />
+        <activity
+                android:name=".ILAOActivity"
+                android:label="Illinois Legal Aid Info"/>
     </application>
 
 </manifest>
