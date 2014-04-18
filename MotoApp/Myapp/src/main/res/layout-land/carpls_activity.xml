@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#FFFFFF"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                tools:context=".com.illuminatingsw.myapp.CarplsActivity" >
+
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:layout_alignParentTop="true"
+            android:id="@+id/backbutton"
+            android:layout_alignParentLeft="true"
+            android:background="@color/blue_base"
+            android:textColor="@color/white"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp" />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return Home"
+            android:layout_alignParentTop="true"
+            android:id="@+id/homebutton"
+            android:layout_alignTop="@+id/backbutton"
+            android:layout_alignParentRight="true"
+            android:background="@color/blue_base"
+            android:textColor="@color/white"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp" />
+
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/greenhorizontal"
+            android:layout_below="@+id/homebutton"
+            android:paddingTop="5dp"  />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/carpls_head"
+            android:id="@+id/textView0"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/imageView"
+            android:textSize="20dp"
+            android:autoLink="all"  />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/carpls_1"
+        android:id="@+id/textView1"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/textView0"
+        android:textSize="14dp"
+        android:autoLink="all"  />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/carpls_2"
+            android:id="@+id/textView2"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="10dp"
+            android:textSize="14dp"
+            android:autoLink="all"  />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/carpls_3"
+            android:id="@+id/textView3"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="10dp"
+            android:textSize="14dp"
+            android:autoLink="all"  />
+
+
+
+</RelativeLayout>
