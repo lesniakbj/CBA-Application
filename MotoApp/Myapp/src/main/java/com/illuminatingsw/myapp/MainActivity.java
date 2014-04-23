@@ -46,6 +46,7 @@ public class MainActivity extends Activity {
                     homeIntent.addCategory(Intent.CATEGORY_HOME);
                     homeIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(homeIntent);
+                    finish();
                 }
             });
             builder.show();
